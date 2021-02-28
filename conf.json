@@ -1,0 +1,43 @@
+{
+    "plugins": [],
+    "recurseDepth": 10,
+    "source": {
+        "includePattern": ".+\\.js(doc|x)?$",
+        "excludePattern": "(^|\\/|\\\\)_"
+    },
+    "sourceType": "module",
+    "tags": {
+        "allowUnknownTags": true,
+        "dictionaries": ["jsdoc","closure"]
+    },
+    "templates": {
+        "cleverLinks": false,
+        "monospaceLinks": false
+    },
+    "opts":{
+        "template":"./node_modules/docdash",
+        "destination":"./docs",
+        "default":{
+            "staticFiles":{
+                "include":[]
+            }
+        }
+    },
+    "docdash":{
+        "search":true,
+        "collapse":true,
+        "wrap":true,
+        "typedefs":true
+    },
+    "plantuml": {
+        "puml": {
+          "create": true,
+          "destination": "docs/puml"
+        },
+        "images": {
+          "create": true,
+          "destination":"docs/images",
+          "defaultFormat":"png"
+        }
+      }
+}

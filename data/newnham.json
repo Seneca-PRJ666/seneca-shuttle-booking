@@ -1,0 +1,230 @@
+{
+  "campus": "newnham",
+  "data": [
+    {
+      "campus_name": "york",
+      "schedule": [
+        {
+          "route_name": "a",
+          "start_time": "6:15",
+          "arrival_time": "7:00",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "a",
+          "start_time": "10:15",
+          "arrival_time": "11:00",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "a",
+          "start_time": "15:00",
+          "arrival_time": "15:45",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "b",
+          "start_time": "7:15",
+          "arrival_time": "8:00",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "b",
+          "start_time": "8:45",
+          "arrival_time": "9:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "b",
+          "start_time": "10:45",
+          "arrival_time": "11:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "b",
+          "start_time": "12:15",
+          "arrival_time": "13:00",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "b",
+          "start_time": "14:45",
+          "arrival_time": "15:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "b",
+          "start_time": "16:15",
+          "arrival_time": "17:00",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "b",
+          "start_time": "18:30",
+          "arrival_time": "19:15",
+          "available_seat": "40"
+        }
+      ]
+    },
+    {
+      "campus_name": "king",
+      "schedule": [
+        {
+          "route_name": "c",
+          "start_time": "7:00",
+          "arrival_time": "8:00",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "c",
+          "start_time": "9:00",
+          "arrival_time": "10:00",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "c",
+          "start_time": "11:30",
+          "arrival_time": "12:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "c",
+          "start_time": "14:30",
+          "arrival_time": "15:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "c",
+          "start_time": "17:00",
+          "arrival_time": "18:00",
+          "available_seat": "40"
+        }
+      ]
+    },
+    {
+      "campus_name": "markham",
+      "schedule": [
+        {
+          "route_name": "e",
+          "start_time": "7:15",
+          "arrival_time": "7:45",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "e",
+          "start_time": "8:15",
+          "arrival_time": "8:45",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "e",
+          "start_time": "9:15",
+          "arrival_time": "9:45",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "e",
+          "start_time": "10:45",
+          "arrival_time": "11:15",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "e",
+          "start_time": "11:45",
+          "arrival_time": "12:15",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "e",
+          "start_time": "12:45",
+          "arrival_time": "13:15",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "e",
+          "start_time": "14:45",
+          "arrival_time": "15:15",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "e",
+          "start_time": "15:45",
+          "arrival_time": "16:15",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "e",
+          "start_time": "16:45",
+          "arrival_time": "17:15",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "e",
+          "start_time": "18:15",
+          "arrival_time": "18:45",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "f",
+          "start_time": "7:30",
+          "arrival_time": "8:00",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "f",
+          "start_time": "8:30",
+          "arrival_time": "9:00",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "f",
+          "start_time": "9:30",
+          "arrival_time": "10:00",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "f",
+          "start_time": "11:00",
+          "arrival_time": "11:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "f",
+          "start_time": "12:00",
+          "arrival_time": "12:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "f",
+          "start_time": "13:00",
+          "arrival_time": "13:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "f",
+          "start_time": "15:00",
+          "arrival_time": "15:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "f",
+          "start_time": "16:00",
+          "arrival_time": "16:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "f",
+          "start_time": "17:00",
+          "arrival_time": "17:30",
+          "available_seat": "40"
+        },
+        {
+          "route_name": "f",
+          "start_time": "18:30",
+          "arrival_time": "19:00",
+          "available_seat": "40"
+        }
+      ]
+    }
+  ]
+}
