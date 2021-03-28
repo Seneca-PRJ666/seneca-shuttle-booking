@@ -1,5 +1,6 @@
 'use strict'
 import logger from 'log4js'
+
 console.error(process.env.NODE_ENV);
 
 if(process.env.NODE_ENV !=='test'){

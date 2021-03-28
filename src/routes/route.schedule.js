@@ -1,11 +1,9 @@
 'use strict'
 
 import express from "express";
-import validate from 'validate.js'
+import getLogger from '../config/config.logger.mjs'
 import CampusService from "../services/service.campus.mjs";
 import HttpStatus from "../services/service.httpStatus.mjs";
-import getLogger from '../config/config.logger.mjs'
-import {ItemNotFound} from "../services/services.errors.js";
 
 const ScheduleRouter = express.Router();
 const logger = getLogger("Schedule Route");

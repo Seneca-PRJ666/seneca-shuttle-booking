@@ -1,13 +1,12 @@
-import express from "express";
 import bodyParser from 'body-parser';
-import env from 'dotenv';
 import cors from 'cors';
+import env from 'dotenv';
+import express from "express";
 import swaggerUI from "swagger-ui-express";
-import logger from "./config/config.logger.mjs";
 import {swaggerDocs} from "./config/config.swagger.mjs";
-import loginRoutes from "./routes/login.mjs";
 import CampusRouter from "./routes/route.campus.mjs";
 import ScheduleRouter from "./routes/route.schedule.js";
+import UserRouter from "./routes/routes.users.mjs";
 
 /**
  * CORS configuaration
@@ -28,7 +27,7 @@ app.use(cors(corsConfig));
 /**
  * Attach all routes.
  */
-app.use('/login', loginRoutes);
+app.use('/users', UserRouter);
 app.use('/campuses', CampusRouter);
 app.use('/schedule', ScheduleRouter);
 app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerDocs));

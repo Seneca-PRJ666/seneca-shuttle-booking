@@ -1,6 +1,6 @@
 import {expect} from 'chai';
-import Campus from '../../src/models/model.campus.mjs'
 import mongoose from "mongoose";
+import Campus from '../../src/models/model.campus.mjs'
 
 
 describe('Model: Schedule', function () {

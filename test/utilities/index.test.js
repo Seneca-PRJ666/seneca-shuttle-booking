@@ -1,6 +1,4 @@
-
 import {expect} from "chai";
-import dayjs from "dayjs";
 import {convertToDate, getTimeDifference} from "../../src/utilities/index.js";
 
 describe("Utilities: index", function (){

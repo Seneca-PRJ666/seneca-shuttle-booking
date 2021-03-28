@@ -1,10 +1,10 @@
 process.env.NODE_ENV = 'test';
 
-import CampusDb from '../../src/dbaccess/dbaccess.campus.mjs'
-import {connectToDb, disconnectFromDb} from "../../src/config/config.database.mjs";
-import Campus from "../../src/models/model.campus.mjs";
-import mongoose from "mongoose";
 import {expect} from "chai";
+import mongoose from "mongoose";
+import {connectToDb, disconnectFromDb} from "../../src/config/config.database.mjs";
+import CampusDb from '../../src/dbaccess/dbaccess.campus.mjs'
+import Campus from "../../src/models/model.campus.mjs";
 
 async function createOneCampus() {
     const routesData = [

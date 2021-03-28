@@ -57,26 +57,48 @@ export class ItemNotFound extends MyCustomError{
     }
 }
 
+/**
+ * Error that is thrown when an user is unauthorized.
+ */
+export class UnauthorizedUserError extends MyCustomError{
+    constructor(message) {
+        super(message);
+        this.name= this.constructor.name;
+        Error.captureStackTrace(this,this.constructor);
+    }
+}
 
-// /**
-//  * This error is thrown when a token can't be validated.
-//  */
-// export class InvalidTokenError extends MyCustomError{
-//     constructor(message) {
-//         super(message);
-//         this.name= this.constructor.name;
-//         Error.captureStackTrace(this,this.constructor);
-//     }
-// }
-//
-// /**
-//  * This error is thrown when a token is expired.
-//  */
-// export class ExpiredTokenError extends MyCustomError{
-//     constructor(message) {
-//         super(message);
-//         this.name= this.constructor.name;
-//         Error.captureStackTrace(this,this.constructor);
-//     }
-// }
+/**
+ * Error that is thrown when password doesn't match.
+ */
+export class PasswordMismatchError extends MyCustomError{
+    constructor(message) {
+        super(message);
+        this.name= this.constructor.name;
+        Error.captureStackTrace(this,this.constructor);
+    }
+}
+
+
+/**
+ * This error is thrown when a token can't be validated.
+ */
+export class InvalidTokenError extends MyCustomError{
+    constructor(message) {
+        super(message);
+        this.name= this.constructor.name;
+        Error.captureStackTrace(this,this.constructor);
+    }
+}
+
+/**
+ * This error is thrown when a token is expired.
+ */
+export class ExpiredTokenError extends MyCustomError{
+    constructor(message) {
+        super(message);
+        this.name= this.constructor.name;
+        Error.captureStackTrace(this,this.constructor);
+    }
+}
 

@@ -1,10 +1,8 @@
-
-
+import {expect} from "chai";
+import request from 'supertest-as-promised';
+import app from '../../src/app.js'
 import {connectToDb, disconnectFromDb} from "../../src/config/config.database.mjs";
 import CampusDb from "../../src/dbaccess/dbaccess.campus.mjs";
-import app from '../../src/app.js'
-import request from 'supertest-as-promised';
-import {expect} from "chai";
 
 
 describe('Route: Campus', function (){
