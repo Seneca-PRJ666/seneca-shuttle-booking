@@ -1,10 +1,9 @@
 'use strict'
 
-import CampusDb from "../../src/dbaccess/dbaccess.campus.mjs";
-import Campus from "../../src/models/model.campus.mjs";
-import CampusService from '../../src/services/service.campus.mjs'
 import {expect} from "chai";
 import sinon from 'sinon'
+import CampusDb from "../../src/dbaccess/dbaccess.campus.mjs";
+import CampusService from '../../src/services/service.campus.mjs'
 
 describe('Service: Campus', function () {
     describe('Function: addNewCampus', function () {

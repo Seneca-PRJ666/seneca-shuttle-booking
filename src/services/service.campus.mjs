@@ -1,9 +1,8 @@
 'use strict'
 
 import CampusDb from "../dbaccess/dbaccess.campus.mjs";
-import {convertToDate, getHourValue, getMinuteValue} from "../utilities/index.js";
+import {convertToDate} from "../utilities/index.js";
 import {isEmpty} from "../utilities/validator.js";
-import {ItemNotFound} from "./services.errors.js";
 
 
 export default class CampusService {

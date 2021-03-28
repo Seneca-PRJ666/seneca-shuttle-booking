@@ -1,7 +1,7 @@
 'use strict'
 
-import Campus from '../models/model.campus.mjs'
 import getLogger from '../config/config.logger.mjs'
+import Campus from '../models/model.campus.mjs'
 import {ItemNotFound} from "../services/services.errors.js";
 
 export default class CampusDb {

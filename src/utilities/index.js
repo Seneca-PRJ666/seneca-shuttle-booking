@@ -1,7 +1,5 @@
 'use strict'
 
-import dayjs from 'dayjs';
-
 /**
  * Returns the difference between two time periods.
  * @param {String} timeA - Time represented like "6:30" where 6 is hour 30 is minute.

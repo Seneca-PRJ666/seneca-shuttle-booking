@@ -1,8 +1,8 @@
 'use strict'
 
-import {connectToDb} from "./config/config.database.mjs";
-import app from './app.js';
 import env from 'dotenv';
+import app from './app.js';
+import {connectToDb} from "./config/config.database.mjs";
 import getLogger from './config/config.logger.mjs'
 
 env.config();
