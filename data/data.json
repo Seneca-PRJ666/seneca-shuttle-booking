@@ -1,0 +1,596 @@
+[
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "york",
+    "route_name": "d",
+    "start": "8:00 AM",
+    "arrive": "9:00 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "york",
+    "route_name": "d",
+    "start": "10:30 AM",
+    "arrive": "11:30 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "york",
+    "route_name": "d",
+    "start": "1:30 PM",
+    "arrive": "2:30 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "york",
+    "route_name": "d",
+    "start": "4:00 PM",
+    "arrive": "5:00 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "york",
+    "route_name": "d",
+    "start": "6:10 PM",
+    "arrive": "7:10 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "york",
+    "route_name": "g",
+    "start": "5:15 PM",
+    "arrive": "6:15 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "york",
+    "route_name": "g",
+    "start": "7:15 PM",
+    "arrive": "8:15 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "newnham",
+    "route_name": "c",
+    "start": "8:00",
+    "arrive": "9:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "newnham",
+    "route_name": "c",
+    "start": "10:30",
+    "arrive": "11:30",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "newnham",
+    "route_name": "c",
+    "start": "1:30",
+    "arrive": "2:30",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "newnham",
+    "route_name": "c",
+    "start": "4:00",
+    "arrive": "5:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "newnham",
+    "route_name": "c",
+    "start": "6:10",
+    "arrive": "7:10",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "king",
+    "to": "newnham",
+    "route_name": "g",
+    "start": "7:15",
+    "arrive": "9:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "markham",
+    "to": "newnham",
+    "route_name": "e",
+    "start": "7:45 AM",
+    "arrive": "8:15 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "king",
+    "route_name": "c",
+    "start": "7:00",
+    "arrive": "8:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "king",
+    "route_name": "c",
+    "start": "9:00",
+    "arrive": "10:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "king",
+    "route_name": "c",
+    "start": "11:30",
+    "arrive": "12:30",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "king",
+    "route_name": "c",
+    "start": "14:30",
+    "arrive": "15:30",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "king",
+    "route_name": "c",
+    "start": "17:00",
+    "arrive": "18:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "e",
+    "start": "7:15 AM",
+    "arrive": "7:45 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "f",
+    "start": "7:30 AM",
+    "arrive": "8:00 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "e",
+    "start": "8:15 AM",
+    "arrive": "8:45 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "f",
+    "start": "8:30 AM",
+    "arrive": "9:00 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "e",
+    "start": "9:15 AM",
+    "arrive": "9:45 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "f",
+    "start": "9:30 AM",
+    "arrive": "10:00 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "e",
+    "start": "10:45 AM",
+    "arrive": "11:15 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "f",
+    "start": "11:00 AM",
+    "arrive": "11:30 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "e",
+    "start": "11:45 AM",
+    "arrive": "12:15 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "f",
+    "start": "12:00 PM",
+    "arrive": "12:30 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "e",
+    "start": "12:45 PM",
+    "arrive": "1:15 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "f",
+    "start": "1:00 PM",
+    "arrive": "1:30 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "e",
+    "start": "2:45 PM",
+    "arrive": "3:15 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "f",
+    "start": "3:00 PM",
+    "arrive": "3:30 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "e",
+    "start": "3:45 PM",
+    "arrive": "4:15 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "f",
+    "start": "4:00 PM",
+    "arrive": "4:30 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "e",
+    "start": "4:45 PM",
+    "arrive": "5:15 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "f",
+    "start": "5:00 PM",
+    "arrive": "5:30 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "e",
+    "start": "6:15 PM",
+    "arrive": "6:45 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "markham",
+    "route_name": "f",
+    "start": "6:30 PM",
+    "arrive": "7:00 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "york",
+    "route_name": "b",
+    "start": "7:15",
+    "arrive": "8:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "york",
+    "route_name": "b",
+    "start": "8:45",
+    "arrive": "9:30",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "york",
+    "route_name": "b",
+    "start": "10:45",
+    "arrive": "11:30",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "york",
+    "route_name": "b",
+    "start": "12:15",
+    "arrive": "1:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "york",
+    "route_name": "b",
+    "start": "2:45",
+    "arrive": "3:30",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "york",
+    "route_name": "b",
+    "start": "4:15",
+    "arrive": "5:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "york",
+    "route_name": "b",
+    "start": "6:30",
+    "arrive": "7:15",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "york",
+    "route_name": "a",
+    "start": "6:15",
+    "arrive": "7:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "york",
+    "route_name": "a",
+    "start": "10:15",
+    "arrive": "11:00",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "newnham",
+    "to": "york",
+    "route_name": "a",
+    "start": "3:00",
+    "arrive": "3:45",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "king",
+    "route_name": "a",
+    "start": "7:00 AM",
+    "arrive": "8:00 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "king",
+    "route_name": "a",
+    "start": "11:00 AM",
+    "arrive": "12:00 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "king",
+    "route_name": "a",
+    "start": "3:45 PM",
+    "arrive": "4:45 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "king",
+    "route_name": "d",
+    "start": "7:00 AM",
+    "arrive": "8:00 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "king",
+    "route_name": "d",
+    "start": "9:00 AM",
+    "arrive": "10:00 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "king",
+    "route_name": "d",
+    "start": "11:30 AM",
+    "arrive": "12:30 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "king",
+    "route_name": "d",
+    "start": "2:30 PM",
+    "arrive": "3:30 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "king",
+    "route_name": "d",
+    "start": "5:00 PM",
+    "arrive": "6:00 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "newnham",
+    "route_name": "b",
+    "start": "8:00 AM",
+    "arrive": "8:45 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "newnham",
+    "route_name": "b",
+    "start": "10:00 AM",
+    "arrive": "10:45 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "newnham",
+    "route_name": "b",
+    "start": "11:30 AM",
+    "arrive": "12:15 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "newnham",
+    "route_name": "b",
+    "start": "2:00 PM",
+    "arrive": "2:45 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "newnham",
+    "route_name": "b",
+    "start": "3:30 PM",
+    "arrive": "4:15 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "newnham",
+    "route_name": "b",
+    "start": "5:30 PM",
+    "arrive": "6:15 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "newnham",
+    "route_name": "g",
+    "start": "8:15 PM",
+    "arrive": "9:00 PM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "newnham",
+    "route_name": "a",
+    "start": "9:30 AM",
+    "arrive": "10:15 AM",
+    "available_seat": "40"
+  },
+  {
+    "date": "2021-04-04",
+    "from": "york",
+    "to": "newnham",
+    "route_name": "a",
+    "start": "2:15 PM",
+    "arrive": "3:00 PM",
+    "available_seat": "40"
+  }
+]

@@ -113,6 +113,19 @@ export default class CampusDb {
         } catch (e) {
             console.error(e);
         }
+    }
+
+    static async getSeatByScheduleId(scheduleId){
+        try{
+            console.log(scheduleId);
+            const result = await Campus.findOne(
+                {},
+                {destination: {$elemMatch:{$elemMatch: {_id:{$eq:scheduleId}}}}}).exec();
+            return result;
+        }
+        catch (e) {
+            console.log(e);
+        }
 
     }
 }

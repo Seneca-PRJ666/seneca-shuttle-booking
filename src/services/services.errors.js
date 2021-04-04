@@ -102,3 +102,14 @@ export class ExpiredTokenError extends MyCustomError{
     }
 }
 
+/**
+ * This error is thrown when a token is expired.
+ */
+export class NoAvailableSeatError extends MyCustomError{
+    constructor(message) {
+        super(message);
+        this.name= this.constructor.name;
+        Error.captureStackTrace(this,this.constructor);
+    }
+}
+

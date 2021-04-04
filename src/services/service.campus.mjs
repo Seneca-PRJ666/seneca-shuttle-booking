@@ -72,12 +72,6 @@ export default class CampusService {
         routes.alternativeRoutes = alternativeRoutes;
         return routes;
     }
-
-    static getJourneyPair(scheduleA, scheduleB) {
-
-    }
-
-
 }
 
 
